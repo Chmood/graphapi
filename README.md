@@ -1,2 +1,2 @@
 # graphapi
-GraphQL API for the win!
+GraphQL API
