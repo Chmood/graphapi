@@ -1,2 +1,2 @@
 # graphapi
-GraphQL API tryout
+GraphQL API
